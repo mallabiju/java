@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "c_console_int_sum",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.c_console_int_sum",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "f_check_dataType",
+      "request": "launch",
+      "mainClass": "B_Basic_IO_Class_n_Object.f_check_dataType",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_console",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.a_console",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_console_io_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.b_console_io_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_console_io_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.a_console_io_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "n_thread",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.n_thread",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "m_thread_runnable",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.m_thread_runnable",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "l_thread",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.l_thread",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "k_thread",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.k_thread",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "s_test",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.s_test",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "ttest",
+      "request": "launch",
+      "mainClass": "Y_Exception_Handling.ttest",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "j_exception_user_defined_throws_product_weight",
       "request": "launch",
       "mainClass": "Y_Exception_Handling.j_exception_user_defined_throws_product_weight",
