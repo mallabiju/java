@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "m_BufferedReader_teacher_details",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.m_BufferedReader_teacher_details",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "l_BufferedReader_string",
       "request": "launch",
       "mainClass": "Z_Console_IO.l_BufferedReader_string",

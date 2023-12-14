@@ -1,4 +1,4 @@
-package Z_Console_IO;
+package Z_Using_IO;
 
 import java.io.Console;
 
