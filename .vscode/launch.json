@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "l_BufferedReader_string",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.l_BufferedReader_string",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "k_BufferedReader_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.k_BufferedReader_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "j_console_readPassword",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.j_console_readPassword",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "i_console_employee_details",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.i_console_employee_details",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "g_console_string",
       "request": "launch",
       "mainClass": "Z_Console_IO.g_console_string",

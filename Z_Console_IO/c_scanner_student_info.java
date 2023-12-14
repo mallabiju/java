@@ -12,9 +12,11 @@ public class c_scanner_student_info {
 
         System.out.print("Enter name:");
         sc.nextLine();
+        // String name = sc.next();
         String name = sc.nextLine();
 
         System.out.print(" Enter address:");
+        // String address = sc.next();
         String address = sc.nextLine();
 
         System.out.println("Roll number = " + roll);
