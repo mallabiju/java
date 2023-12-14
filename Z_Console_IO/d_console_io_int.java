@@ -1,6 +1,6 @@
 package Z_Console_IO;
 
-public class b_console_io_int {
+public class d_console_io_int {
     public static void main(String[] args) {
         System.out.println("Enter a number:");
         String strValue = System.console().readLine();

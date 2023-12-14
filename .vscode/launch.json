@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "g_console_string",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.g_console_string",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "e_console_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.e_console_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_console_io_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.d_console_io_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_scanner_student_info",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.c_scanner_student_info",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_scanner_string",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.b_scanner_string",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_scanner_int",
+      "request": "launch",
+      "mainClass": "Z_Console_IO.a_scanner_int",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_hellonepal",
+      "request": "launch",
+      "mainClass": "A_Basic_IO.a_hellonepal",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "c_console_int_sum",
       "request": "launch",
       "mainClass": "Z_Console_IO.c_console_int_sum",
