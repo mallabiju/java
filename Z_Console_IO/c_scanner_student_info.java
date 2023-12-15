@@ -1,6 +1,6 @@
 // this program explain about the use of next() and nextLine() whilst
 // taking multiple string consecutively, and "sc.nextLine()" as its solution.
-package Z_Using_IO;
+package Z_Console_IO;
 
 import java.util.Scanner;
 

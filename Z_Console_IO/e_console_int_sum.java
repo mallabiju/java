@@ -1,4 +1,4 @@
-package Z_Using_IO;
+package Z_Console_IO;
 
 public class e_console_int_sum {
     public static void main(String[] args) {

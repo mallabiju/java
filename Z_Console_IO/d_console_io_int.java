@@ -1,4 +1,4 @@
-package Z_Using_IO;
+package Z_Console_IO;
 
 public class d_console_io_int {
     public static void main(String[] args) {

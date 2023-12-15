@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "b_file_reader",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.b_file_reader",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_file_writer",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.a_file_writer",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "m_BufferedReader_teacher_details",
       "request": "launch",
       "mainClass": "Z_Console_IO.m_BufferedReader_teacher_details",
