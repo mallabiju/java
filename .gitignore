@@ -1,1 +1,15 @@
 *.class
+/ZZ_NetbeanProjects/HelloNepal/target/
+/ZZ_NetbeanProjects/SwingProject/JavaFXSwingAppApple/nbproject/private/
+/ZZ_NetbeanProjects/apple/nbproject/private/
+/ZZ_NetbeanProjects/apple/build/
+/ZZ_NetbeanProjects/ContactEditor/nbproject/private/
+/ZZ_NetbeanProjects/ContactEditor/build/
+/ZZ_NetbeanProjects/a_hello_nepal/nbproject/private/
+/ZZ_NetbeanProjects/a_hello_nepal/build/
+/ZZ_NetbeanProjects/b_hello_ktm_ui/nbproject/private/
+/ZZ_NetbeanProjects/b_hello_ktm_ui/build/
+/ZZ_NetbeanProjects/StudentManagementSystem/nbproject/private/
+/ZZ_NetbeanProjects/StudentManagementSystem/build/
+/ZZ_NetbeanProjects/b_sms_ui/nbproject/private/
+/ZZ_NetbeanProjects/b_sms_ui/build/

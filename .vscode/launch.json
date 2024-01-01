@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "g_file_copy_char",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.g_file_copy_char",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "f_file_read_bufferedreader",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.f_file_read_bufferedreader",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "e_file_read_filereader",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.e_file_read_filereader",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_file_read",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.d_file_read",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_file_create",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.c_file_create",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_file_size",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.b_file_size",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "b_file_reader",
       "request": "launch",
       "mainClass": "ZA_File_IO.b_file_reader",
