@@ -3,6 +3,230 @@
   "configurations": [
     {
       "type": "java",
+      "name": "zd_jtree",
+      "request": "launch",
+      "mainClass": "ZB_Swing.zd_jtree",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "zc_jprogressbar",
+      "request": "launch",
+      "mainClass": "ZB_Swing.zc_jprogressbar",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "zb_jseparator",
+      "request": "launch",
+      "mainClass": "ZB_Swing.zb_jseparator",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "za_jcheckboxmenuitem",
+      "request": "launch",
+      "mainClass": "ZB_Swing.za_jcheckboxmenuitem",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "e_jpopupmenu",
+      "request": "launch",
+      "mainClass": "ZB_Swing.e_jpopupmenu",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "z_jmenubar_jmenu_jmenuitem",
+      "request": "launch",
+      "mainClass": "ZB_Swing.z_jmenubar_jmenu_jmenuitem",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "y_jscrollbar",
+      "request": "launch",
+      "mainClass": "ZB_Swing.y_jscrollbar",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "x_joptionpane",
+      "request": "launch",
+      "mainClass": "ZB_Swing.x_joptionpane",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "w_joptionpane",
+      "request": "launch",
+      "mainClass": "ZB_Swing.w_joptionpane",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "v_joptionpane",
+      "request": "launch",
+      "mainClass": "ZB_Swing.v_joptionpane",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "u_jtable",
+      "request": "launch",
+      "mainClass": "ZB_Swing.u_jtable",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "t_jtextfield_enter_name",
+      "request": "launch",
+      "mainClass": "ZB_Swing.t_jtextfield_enter_name",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "s_jscrollpane",
+      "request": "launch",
+      "mainClass": "ZB_Swing.s_jscrollpane",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "r_internalframe",
+      "request": "launch",
+      "mainClass": "ZB_Swing.r_internalframe",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "q_jpanel_color",
+      "request": "launch",
+      "mainClass": "ZB_Swing.q_jpanel_color",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "p_jpanel",
+      "request": "launch",
+      "mainClass": "ZB_Swing.p_jpanel",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "o_jtabbedpane",
+      "request": "launch",
+      "mainClass": "ZB_Swing.o_jtabbedpane",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "n_jfilechooser",
+      "request": "launch",
+      "mainClass": "ZB_Swing.n_jfilechooser",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "m_jslider",
+      "request": "launch",
+      "mainClass": "ZB_Swing.m_jslider",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "l_imageicon",
+      "request": "launch",
+      "mainClass": "ZB_Swing.l_imageicon",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "k_jcombobox",
+      "request": "launch",
+      "mainClass": "ZB_Swing.k_jcombobox",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "j_jlist",
+      "request": "launch",
+      "mainClass": "ZB_Swing.j_jlist",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "i_jradiobutton",
+      "request": "launch",
+      "mainClass": "ZB_Swing.i_jradiobutton",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "h_jcheckbox",
+      "request": "launch",
+      "mainClass": "ZB_Swing.h_jcheckbox",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "g_jpasswordfield",
+      "request": "launch",
+      "mainClass": "ZB_Swing.g_jpasswordfield",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "f_jtextarea",
+      "request": "launch",
+      "mainClass": "ZB_Swing.f_jtextarea",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "d_jlabel",
+      "request": "launch",
+      "mainClass": "ZB_Swing.d_jlabel",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_jtextfield",
+      "request": "launch",
+      "mainClass": "ZB_Swing.c_jtextfield",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "c_test",
+      "request": "launch",
+      "mainClass": "ZB_Swing.c_test",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "b_jbutton",
+      "request": "launch",
+      "mainClass": "ZB_Swing.b_jbutton",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "a_jframe",
+      "request": "launch",
+      "mainClass": "ZB_Swing.a_jframe",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
+      "name": "m_swing",
+      "request": "launch",
+      "mainClass": "ZA_File_IO.m_swing",
+      "projectName": "SCJAVA_32eb8c2b"
+    },
+    {
+      "type": "java",
       "name": "g_file_copy_char",
       "request": "launch",
       "mainClass": "ZA_File_IO.g_file_copy_char",
